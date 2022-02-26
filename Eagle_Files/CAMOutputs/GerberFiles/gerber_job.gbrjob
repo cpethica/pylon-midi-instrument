@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-06-01T10:53:43Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.3.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "shift_register_MOSFET"
+        },
+        "Owner": "Charles Pethica <charles@pethica.net>",
+        "Size": {
+            "X": 166.04,
+            "Y": 48.25
+        }
+    }
+}
